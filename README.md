@@ -10,8 +10,6 @@
 
 #### Nombre: Carrasco Ruiz Alan Uriel
 
-#### N° de  cuenta: 318292768
-
 #### Grupo de Laboratorio: 11
 
 #### Semestre: 2024-2
