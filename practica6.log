@@ -1,0 +1,21 @@
+﻿  P06-318292768.cpp
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P06-318292768.cpp")
+  
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P06-318292768.cpp")
+  
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(290,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(293,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(298,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(312,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(315,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(316,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(319,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(320,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(323,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(324,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(418,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Practica6\P06-318292768.cpp(420,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Practica6.vcxproj -> D:\Octavo Semestre\Proyectos_Lab_CGIH\Practica6\Debug\Practica6.exe
